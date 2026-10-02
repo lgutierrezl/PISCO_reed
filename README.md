@@ -4,7 +4,7 @@
 This repository have functions for view, process and analyze PISCOreed dataset, a gridded soil erosion dataset for the Peru since 2000 to present (annual update).
 
 <center>
-<img src="https://github.com/lgutierrezl/taller_hidrologia/blob/main/data/raw/gridded/PISCOse.png" width=30%>
+<img src="https://github.com/lgutierrezl/PISCO_reed/blob/main/data/raw/gridded/PISCOse.png" width=40%>
 </center>
 
 ## Data
