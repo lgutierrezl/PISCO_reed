@@ -8,7 +8,7 @@ This repository have functions for view, process and analyze PISCOreed dataset, 
 </center>
 
 ## Data
-Aplicación web para la visualización de PISCOr: [https://lgutierrezl.github.io/PISCOr_map/](Whttps://lgutierrezl.github.io/PISCOr_map/)
+Aplicación web para la visualización de PISCOr: [https://lgutierrezl.github.io/PISCOr_map/](https://lgutierrezl.github.io/PISCOr_map/)
 Collection data: [https://doi.org/10.6084/m9.figshare.32411886](https://doi.org/10.6084/m9.figshare.24416923)
 
 ## References
