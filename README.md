@@ -8,8 +8,8 @@ This repository have functions for view, process and analyze PISCOreed dataset, 
 </center>
 
 ## Data
-Aplicación web para la visualización de PISCOr: [https://lgutierrezl.github.io/PISCOr_map/](https://lgutierrezl.github.io/PISCOr_map/)
-Collection data: [https://doi.org/10.6084/m9.figshare.32411886](https://doi.org/10.6084/m9.figshare.24416923)
+1. Aplicación web para la visualización de PISCOr: [https://lgutierrezl.github.io/PISCOr_map/](https://lgutierrezl.github.io/PISCOr_map/)
+2. Collection data: [https://doi.org/10.6084/m9.figshare.32411886](https://doi.org/10.6084/m9.figshare.24416923)
 
 ## References
 1. Gutierrez, L., Huerta, A., Sabino, E., Bourrel, L., Frappart, F., & Lavado-Casimiro, W. [Rainfall Erosivity in Peru: A New Gridded Dataset Based on GPM-IMERG and Comprehensive Assessment (2000–2020) ](https://doi.org/10.3390/rs15225432). Remote Sensing, 15(22), 5432 [2023]. 
